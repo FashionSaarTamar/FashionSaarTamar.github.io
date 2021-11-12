@@ -1,0 +1,27 @@
+body {
+	Background-color:#fdffcd;
+	opacity: 0,6;
+}
+h1 {
+	
+	margin-left: 20px;
+}
+
+.fotobox{
+		
+	display:flex;
+	width:400px;
+	padding:10px;
+	border:5px pink;
+	margin:0;
+}
+
+#Tekst-3{
+		width:400px;
+		margin-left:30px;
+}
+
+#Tekst-4{ 
+		width:400px;
+		margin-left: 30px;
+}
